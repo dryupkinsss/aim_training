@@ -1,4 +1,4 @@
-# aim_game front
+# aim_training front
 My first game
 - HTML
 - CSS
