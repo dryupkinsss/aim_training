@@ -63,6 +63,7 @@ function finishGame() {
     timeEl.classList.add('hide')
     board.innerHTML = `
     <h1 class="primary">Счёт: ${score}</h1>
+    <a href="#" onclick="location.reload()"> Заново </a>
     `
 }
 
