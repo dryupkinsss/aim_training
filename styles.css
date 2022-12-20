@@ -110,3 +110,8 @@ a {
   display: block;
   font-size: 22px;
 }
+
+a:hover{
+  color: #16D9E3;
+  transition: all 0.1s ease-out;
+}
