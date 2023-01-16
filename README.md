@@ -4,4 +4,4 @@ My first game
 - CSS
 - JS
 
-Can you view [my project](https://zxc-t0xic.github.io/aim_training/)
+Can you view [my project](https://dryupkinsss.github.io/aim_training/)
