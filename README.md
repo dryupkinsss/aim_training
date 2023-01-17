@@ -1,5 +1,4 @@
 # aim_training
-My first game
 - HTML
 - CSS
 - JS
